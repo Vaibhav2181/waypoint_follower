@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="waypoint_follower" type="waypoint_follower" name="waypoint_follower" output="screen"></node>
+
+</launch>
